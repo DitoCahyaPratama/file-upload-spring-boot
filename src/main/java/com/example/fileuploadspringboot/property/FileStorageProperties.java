@@ -5,10 +5,13 @@
  */
 package com.example.fileuploadspringboot.property;
 
+import org.springframework.boot.context.properties.ConfigurationProperties;
+
 /**
  *
  * @author Doyatama
  */
+@ConfigurationProperties(prefix = "file")
 public class FileStorageProperties {
     private String uploadDir;
 
