@@ -17,6 +17,7 @@ U can run in browser with link : [http://localhost:8080/](http://localhost:8080/
 
 ## 🧰 Screen Shoot
 
+This is screenshot of web page
 ![img screen shot](/images/Ss.png)
 
 ## ⚡ Postman Guide
